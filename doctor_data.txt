@@ -1,0 +1,43 @@
+
+---------------------------------------------
+Name: Dr.Siam
+Age: 30
+Gender: Male
+specialization: Cardiologist
+Availabilty: true
+---------------------------------------------
+---------------------------------------------
+Name: Dr.Raita
+Age: 28
+Gender: Female
+specialization: Gynecologist
+Availabilty: true
+---------------------------------------------
+---------------------------------------------
+Name: Dr.Niloy
+Age: 35
+Gender: Male
+specialization: Neurologist
+Availabilty: true
+---------------------------------------------
+---------------------------------------------
+Name: Dr.Riad
+Age: 37
+Gender: Male
+specialization: Orthopedics
+Availabilty: true
+---------------------------------------------
+---------------------------------------------
+
+------------------------------------------------------------------------------------------
+Name: Dr.Imam
+Age: 34
+Gender: Male
+specialization: Cardiologist
+Availabilty: true
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------

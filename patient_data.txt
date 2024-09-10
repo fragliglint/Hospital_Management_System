@@ -1,0 +1,46 @@
+
+
+---------------------------------------------
+Name: Ripa
+Age: 22
+Gender: Female
+Adress: Aftabnagar
+Phone: 01823463785
+Disease: HeartPatient
+---------------------------------------------
+---------------------------------------------
+Name: Ankon
+Age: 21
+Gender: Female
+Adress: Banasree
+Phone: 01794394922
+Disease: Pregnent
+---------------------------------------------
+
+---------------------------------------------
+Name: Peuly
+Age: 27
+Gender: Female
+Adress: Aftabnagar
+Phone: 01898763423
+Disease: pregnent
+
+------------------------------------------------------------------------------------------
+Name: Rahat
+Age: 22
+Gender: Male
+Adress: Khilgoan
+Phone: 01984647373
+Disease: brainstrock
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Name: Nuha
+Age: 23
+Gender: Female
+Adress: Badda
+Phone: 01987647378
+Disease: heartFailure
+
+---------------------------------------------
